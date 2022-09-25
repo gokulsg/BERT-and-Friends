@@ -43,7 +43,7 @@ This Folder contains 7 Jupyter notebooks. They can be catagorized as follows
 
 3. Stanford Sentiment Treebank (SST-2) dataset
   * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_SST2_dataset_Finetuning.ipynb (https://colab.research.google.com/drive/1SNtIWNmsf_uWKp-uKLYgPmAOZjkTefbU?usp=sharing)
-  * Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb (https://colab.research.google.com/drive/1PzGCAYa2qiZA5oaZtTqB0MOITuafom7W?usp=sharing)
+  * Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb (https://colab.research.google.com/drive/1N-UdMWiEYexkMOxbL_XFi2RV4L-2RGct?usp=sharing)
 
 **Part 3 code** (Part_3_Analyzing_the_model_size_and_processing_time.ipynb - **colab notebook link:** https://colab.research.google.com/drive/1RaKlccFbQHrTnIGVkzKRTMm-dH3OTogd?usp=sharing) is common for all the three datasets.
 
