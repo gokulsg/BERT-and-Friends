@@ -34,15 +34,15 @@ All the models trained were made publically available on Huggingface. Here are t
 This Folder contains 7 Jupyter notebooks. They can be catagorized as follows
 
 1. Amazon MASSIVE dataset
-  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Massive_dataset_Finetuning.ipynb
-  * Part 2 code: Part_2_BERT_and_DistilBERT_Massive_dataset_Knowledge_distillation.ipynb
+  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Massive_dataset_Finetuning.ipynb (https://colab.research.google.com/drive/1J9YUFZy9hMRe_M5zDJdlpCTJbKZNjq4M?usp=sharing)
+  * Part 2 code: Part_2_BERT_and_DistilBERT_Massive_dataset_Knowledge_distillation.ipynb (https://colab.research.google.com/drive/1e-KhOiMeS_9EYmeIh_KnF-Yga-LHx1HV?usp=sharing)
 
 2. Emotion dataset
-  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Emotion_dataset_Finetuning.ipynb
-  * Part 2 code: Part_2_BERT_and_DistilBERT_emotion_dataset_Knowledge_distillation.ipynb
+  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Emotion_dataset_Finetuning.ipynb (https://colab.research.google.com/drive/1uV1DxrTkoy48zoHrdE478OsSYcs_FvXz?usp=sharing)
+  * Part 2 code: Part_2_BERT_and_DistilBERT_emotion_dataset_Knowledge_distillation.ipynb (https://colab.research.google.com/drive/1Tq23K0BpKAGzZeOdI7u_A7BBJnJ5zflI?usp=sharing)
 
 3. Stanford Sentiment Treebank (SST-2) dataset
-  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_SST2_dataset_Finetuning.ipynb
-  * Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb
+  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_SST2_dataset_Finetuning.ipynb (https://colab.research.google.com/drive/1SNtIWNmsf_uWKp-uKLYgPmAOZjkTefbU?usp=sharing)
+  * Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb (https://colab.research.google.com/drive/1PzGCAYa2qiZA5oaZtTqB0MOITuafom7W?usp=sharing)
 
-**Part 3 code** (Part_3_Analyzing_the_model_size_and_processing_time.ipynb) is common for all the three datasets.
+**Part 3 code** (Part_3_Analyzing_the_model_size_and_processing_time.ipynb - **colab notebook link:** https://colab.research.google.com/drive/1RaKlccFbQHrTnIGVkzKRTMm-dH3OTogd?usp=sharing) is common for all the three datasets.
