@@ -34,15 +34,15 @@ All the models trained were made publically available on Huggingface. Here are t
 This Folder contains 7 Jupyter notebooks. They can be catagorized as follows
 
 1. Amazon MASSIVE dataset
-i. Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Massive_dataset_Finetuning.ipynb
-ii. Part 2 code: Part_2_BERT_and_DistilBERT_Massive_dataset_Knowledge_distillation.ipynb
+  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Massive_dataset_Finetuning.ipynb
+  * Part 2 code: Part_2_BERT_and_DistilBERT_Massive_dataset_Knowledge_distillation.ipynb
 
 2. Emotion dataset
-i. Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Emotion_dataset_Finetuning.ipynb
-ii. Part 2 code: Part_2_BERT_and_DistilBERT_emotion_dataset_Knowledge_distillation.ipynb
+  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_Emotion_dataset_Finetuning.ipynb
+  * Part 2 code: Part_2_BERT_and_DistilBERT_emotion_dataset_Knowledge_distillation.ipynb
 
 3. Stanford Sentiment Treebank (SST-2) dataset
-i. Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_SST2_dataset_Finetuning.ipynb
-ii. Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb
+  * Part 1 code: Part_1_BERT_distilRoBERTa_and_DistilBERT_SST2_dataset_Finetuning.ipynb
+  * Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb
 
-Part 3 code (Part_3_Analyzing_the_model_size_and_processing_time.ipynb) is common for all the three datasets.
+**Part 3 code** (Part_3_Analyzing_the_model_size_and_processing_time.ipynb) is common for all the three datasets.
