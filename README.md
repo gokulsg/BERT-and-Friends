@@ -1,5 +1,5 @@
 # BERT-and-Friends
-This repository contains the complete code for the BERT and Friends final Project
+This repository contains the complete code for the BERT and Friends final Project. I performed Task-specific knowledge distillation using 3 datasets and compared the performance of the student models with the Fine-tuned Teacher models. 
 
 ## Experiment
 
@@ -46,3 +46,36 @@ This Folder contains 7 Jupyter notebooks. They can be catagorized as follows
   * Part 2 code: Part_2_BERT_and_DistilBERT_sst2_dataset_Knowledge_distillation.ipynb (https://colab.research.google.com/drive/1PzGCAYa2qiZA5oaZtTqB0MOITuafom7W?usp=sharing)
 
 **Part 3 code** (Part_3_Analyzing_the_model_size_and_processing_time.ipynb - **colab notebook link:** https://colab.research.google.com/drive/1RaKlccFbQHrTnIGVkzKRTMm-dH3OTogd?usp=sharing) is common for all the three datasets.
+
+## Model cards
+
+1. Amazon MASSIVE dataset
+ * Fine-tuned models
+   * BERT base: https://huggingface.co/gokuls/bert-base-Massive-intent
+   * DistilRoBERTa: https://huggingface.co/gokuls/distilroberta-base-Massive-intent
+   * DistilBERT: https://huggingface.co/gokuls/distilbert-base-Massive-intent
+   * BERT-tiny (Student model): https://huggingface.co/gokuls/BERT-tiny-Massive-intent
+ * Knowledge Distillation
+   * BERT only: https://huggingface.co/gokuls/bert-tiny-Massive-intent-KD-BERT
+   * DistilBERT only: https://huggingface.co/gokuls/bert-tiny-Massive-intent-KD-distilBERT
+   * BERT and DistilBERT (Two Teachers): https://huggingface.co/gokuls/bert-tiny-Massive-intent-KD-BERT_and_distilBERT
+2. Emotion dataset
+ * Fine-tuned models
+   * BERT base: https://huggingface.co/gokuls/bert-base-emotion-intent
+   * DistilRoBERTa: https://huggingface.co/gokuls/distilroberta-emotion-intent
+   * DistilBERT: https://huggingface.co/gokuls/distilbert-emotion-intent
+   * BERT-tiny (Student model): https://huggingface.co/gokuls/BERT-tiny-emotion-intent
+ * Knowledge Distillation
+   * BERT only: https://huggingface.co/gokuls/bert-tiny-emotion-KD-BERT
+   * DistilBERT only: https://huggingface.co/gokuls/bert-tiny-emotion-KD-distilBERT
+   * BERT and DistilBERT (Two Teachers): https://huggingface.co/gokuls/bert-tiny-emotion-KD-BERT_and_distilBERT
+3. Stanford Sentiment Treebank (SST-2) dataset
+ * Fine-tuned models
+   * BERT base: https://huggingface.co/gokuls/bert-base-sst2
+   * DistilRoBERTa: https://huggingface.co/gokuls/distilroberta-sst2
+   * DistilBERT: https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english
+   * BERT-tiny (Student model): https://huggingface.co/gokuls/BERT-tiny-sst2
+ * Knowledge Distillation
+   * BERT only: https://huggingface.co/gokuls/bert-tiny-sst2-KD-BERT
+   * DistilBERT only: https://huggingface.co/gokuls/bert-tiny-sst2-KD-distilBERT
+   * BERT and DistilBERT (Two Teachers): https://huggingface.co/gokuls/bert-tiny-sst2-KD-BERT_and_distilBERT
