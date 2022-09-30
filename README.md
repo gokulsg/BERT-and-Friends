@@ -3,7 +3,7 @@ This repository contains the complete code for the BERT and Friends final Projec
 
 ## Experiment
 
-In this Project, There are three important sections:
+In this Project, there are three important sections:
 
 **Part 1:** We will fine-tune the BERT-base, distilRoBERTa and DistilBERT and BERT-tiny (student) model
 
