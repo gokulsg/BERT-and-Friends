@@ -9,7 +9,7 @@ In this Project, There are three important sections:
 
 **Part 2:** We will perform task-specific Knowledge Distillation using the sst-2 dataset.
 
-**Student model:** BERT-tiny (2 layers and 128 hidden dimension and 2 attention heads)
+**Student model:** BERT-tiny (2 layers and 128 hidden dimension and 2 attention heads) (https://huggingface.co/google/bert_uncased_L-2_H-128_A-2)
 
 We use our fine-tuned models in part-1 as teachers. The Knowledge distillation is performed in three different settings:
 
